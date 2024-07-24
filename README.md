@@ -36,3 +36,7 @@ The methods available in this class are similar to those of the APCu functions.
 | `apcu_key_info()`    | `$apcu->keyInfo()` |
 | `apcu_sma_info()`    | `$apcu->smaInfo()` |
 | `apcu_store()`       | `$apcu->store()` |
+
+# License
+
+MIT
