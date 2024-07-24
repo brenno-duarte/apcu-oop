@@ -1,4 +1,4 @@
-# OOP wrapper for APCu functions
+# PHP OOP wrapper for APCu functions
 
 The simplest OOP wrapper for APCu functions
 
