@@ -1,0 +1,15 @@
+{
+    "name": "brenno-duarte/apcu-oop",
+    "description": "The simplest OOP wrapper for APCu functions",
+    "require": {
+        "php": "^8.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "APCu\\": "src/"
+        }
+    },
+    "suggest": {
+        "ext-apcu": "To use APCu cache driver"
+    }
+}
