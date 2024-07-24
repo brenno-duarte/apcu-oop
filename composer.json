@@ -1,6 +1,7 @@
 {
     "name": "brenno-duarte/apcu-oop",
     "description": "The simplest OOP wrapper for APCu functions",
+    "license": "MIT",
     "require": {
         "php": "^8.2"
     },
