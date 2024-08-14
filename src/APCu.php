@@ -6,7 +6,7 @@ class APCu
 {
     public function __construct()
     {
-        if (!extension_loaded("apcu")) throw new APCUException("APCu extension not loaded");
+        if (!extension_loaded("apcu")) throw new APCuException("APCu extension not loaded");
     }
 
     /**

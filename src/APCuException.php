@@ -2,6 +2,6 @@
 
 namespace APCu;
 
-class APCUException extends \Exception
+class APCuException extends \Exception
 {
 }
